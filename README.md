@@ -1,0 +1,2 @@
+# Informacion-detallada
+Información detallada
